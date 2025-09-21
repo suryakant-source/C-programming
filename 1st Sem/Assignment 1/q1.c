@@ -1,9 +1,12 @@
-//Print your Name, SIC Number and Section at separate lines.
+/*
+Q1) Print your Name, SIC Number and Section at separate lines.
+*/
+
 #include <stdio.h>
 
 int main() {
-    printf("***\n");
-    printf("***\n");
-    printf("***\n");
+    printf("Name: Suryakant Sahoo\n");
+    printf("SIC Number: 123456\n");
+    printf("Section: c\n");
     return 0;
 }
